@@ -40,3 +40,4 @@ It uses character‑based rendering to display graphics smoothly without any ext
 If the window looks too small, right‑click the console title bar → **Properties** → **Font**, and choose a larger size (36, 48, 72).
 
 ---
+<img width="783" height="438" alt="image" src="https://github.com/user-attachments/assets/07824f69-b2a2-433e-b9aa-c41830f6f878" />
